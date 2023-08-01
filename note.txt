@@ -1,0 +1,4 @@
+Project trong Github gồm có:
+-  Tên folder "Flutter-Custom-Animation-Grocery-App-master" là của Demo video 1 
+- Tên folder "Animated-Tesla-Car-App-using-Flutter-master" là của Demo video 2,3,5,6
+- Tên folder "flutter_auth_animation-main" là của demo video 4
